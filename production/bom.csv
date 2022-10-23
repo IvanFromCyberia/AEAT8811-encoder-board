@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C101,C_1210_3225Metric,1,10uF,
+C102,C_0805_2012Metric,1,100n,
+"C103, C104",C_0603_1608Metric,2,100n,
+"H101, H102, H103, H104",MountingHole_2.5mm,4,MountingHole,
+"J101, J102, J103, J104",PinHeader_1x04_P2.54mm_Vertical,4,Conn_01x04_Male,
+U101,QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm,1,AEAT-8811,
